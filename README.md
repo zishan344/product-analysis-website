@@ -1,6 +1,6 @@
 # Bike-Lovers.com
 
-This is live project link [Bike-Lovers.com](https://poetic-salmiakki-771f0a.netlify.app/review).'
+This is live project link [Bike-Lovers.com](https://poetic-salmiakki-771f0a.netlify.app/).'
 
 ## my project discription
 
