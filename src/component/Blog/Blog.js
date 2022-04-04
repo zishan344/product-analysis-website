@@ -36,8 +36,10 @@ const Blog = () => {
           <p>
             Context API is a React structure. This frees us from props drilling.
             It is very easy to transfer data from one place to another. This is
-            the alternative to "prop drilling". If we use it, we don't have to
-            do props drilling.
+            the alternative to "prop drilling".or moving props from grandparent
+            to child to parent, and so on. Context is also touted as an easier,
+            lighter approach to state management using Redux. If we use it, we
+            don't have to do props drilling.
           </p>
         </div>
       </div>
