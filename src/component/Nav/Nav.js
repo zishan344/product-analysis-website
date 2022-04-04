@@ -8,7 +8,7 @@ const Nav = () => {
         <div>
           <h2 className="text-3xl text-blue-400 font-bold">Bike-Lovers.com</h2>
         </div>
-        <div>
+        <div className="flex gap-2 flex-wrap justify-center md:justify-end">
           <NavLink
             className={({ isActive }) =>
               isActive ? "font-bold mr-4 text-blue-400" : "font-bold mr-4"
@@ -19,7 +19,7 @@ const Nav = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              isActive ? "font-bold mr-4 text-blue-400" : "font-bold mr-4"
+              isActive ? "font-bold   text-blue-400" : "font-bold mr-4"
             }
             to="/review"
           >
@@ -27,7 +27,7 @@ const Nav = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              isActive ? "font-bold mr-4 text-blue-400" : "font-bold mr-4"
+              isActive ? "font-bold   text-blue-400" : "font-bold mr-4"
             }
             to="/dashboard"
           >
@@ -35,7 +35,7 @@ const Nav = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              isActive ? "font-bold mr-4 text-blue-400" : "font-bold mr-4"
+              isActive ? "font-bold   text-blue-400" : "font-bold mr-4"
             }
             to="/blog"
           >
@@ -43,7 +43,7 @@ const Nav = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              isActive ? "font-bold mr-4 text-blue-400" : "font-bold mr-4"
+              isActive ? "font-bold   text-blue-400" : "font-bold mr-4"
             }
             to="/about"
           >
