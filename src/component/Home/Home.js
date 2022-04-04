@@ -1,5 +1,6 @@
 import React from "react";
 import ReviewData from "../../Hooks/ReviewData";
+import Revews from "../Revews/Revews";
 const Home = () => {
   const [reviews, setReviews] = ReviewData();
 
@@ -35,6 +36,17 @@ const Home = () => {
               }
               alt=""
             />
+          </div>
+        </div>
+        {/* customer reviews */}
+        <div className="reviews m-8">
+          <h1 className="font-bold text-3xl text-center">
+            Customer reviews ({reviews.slice(0, 3).length})
+          </h1>
+          <div className="grid grid-cols-2 gap-10 py-8">
+            {reviews.slice(0, 3).map((review) => (
+              <Revews key={review._id} reviews={review}></Revews>
+            ))}
           </div>
         </div>
       </div>
