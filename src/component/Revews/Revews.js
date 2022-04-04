@@ -4,7 +4,7 @@ const Revews = ({ reviews }) => {
   const { name, picture, rating, review } = reviews;
 
   return (
-    <div className="shadow-lg px-4 pb-10 relative">
+    <div className="shadow-lg px-4 pb-10 relative my-4">
       <div className="flex justify-center  ">
         <img className="w-44 h-44 rounded-full" src={picture} alt="" />
       </div>

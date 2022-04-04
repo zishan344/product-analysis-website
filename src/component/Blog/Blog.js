@@ -2,7 +2,7 @@ import React from "react";
 
 const Blog = () => {
   return (
-    <div style={{ height: "100vh" }} className="max-w-screen-lg mx-auto">
+    <div className="max-w-screen-lg mx-auto min-h-screen">
       <div className=" grid grid-cols-1 md:grid-cols-2 gap-12 my-10 ">
         <div className="shadow-lg px-4 py-3">
           <h2 className="font-bold text-2xl text-blue-400 italic pb-4">

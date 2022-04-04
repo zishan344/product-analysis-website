@@ -44,7 +44,7 @@ const Home = () => {
           <h1 className="font-bold text-3xl text-center">
             Customer reviews ({reviews.slice(0, 3).length})
           </h1>
-          <div className="grid grid-cols-2 gap-10 py-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 py-8">
             {reviews.slice(0, 3).map((review) => (
               <Revews key={review._id} reviews={review}></Revews>
             ))}
