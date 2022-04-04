@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "624a4158f410d06d5fc0b713",
+    "picture": "https://img.freepik.com/free-photo/portrait-handsome-young-man-makes-okay-gesture-demonstrates-agreement-likes-idea-smiles-happily-wears-optical-glasses-yellow-hat-t-shirt-models-indoor-its-fine-thank-you-hand-sign_273609-30676.jpg?size=626&ext=jpg&ga=GA1.2.667994152.1649033771",
+    "rating": 2.5,
+    "name": "- Ayers Battle",
+    "review": "I've had my bike for a while now and it's been through a lot. I can't say enough good things about it. It's survived being hit by a car, jumping off of ramp in that lake and being tossed out of the back of a truck...and all without even one scratch or dent! It's an investment that has paid off many times over."
+  },
+  {
+    "_id": "624a41582a958013cd8189d8",
+    "picture": "https://img.freepik.com/free-photo/caucasian-handsome-man-posing-with-arms-hip-smiling-isolated-purple-wall_1368-89876.jpg?w=826",
+    "rating": 4.5,
+    "name": "- Bowers Knight",
+    "review": "I bought this bike for my girlfriend and she loves it! It's been such a smooth ride. I would recommend this to anyone."
+  },
+  {
+    "_id": "624a41584669ed38f83075aa",
+    "picture": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=740&t=st=1649033805~exp=1649034405~hmac=9921009a8b68c6a6da1cd44c82e08db047257ede997609af35c55c1002f75b7a",
+    "rating": 3.5,
+    "name": "- Laurel Taylor",
+    "review": "I bought this bike from my friend and I absolutely love it. It's lightweight, fast and has a great look to it. It looks like a $300 bike but it was only 50 bucks!"
+  },
+  {
+    "_id": "624a4158596fc01b797c22a0",
+    "picture": "https://img.freepik.com/free-photo/cheerful-man-pointing-finger-left-advertise-product_176420-18862.jpg?size=626&ext=jpg&ga=GA1.2.667994152.1649033771",
+    "rating": 2.4,
+    "name": "- Lorene Dillon",
+    "review": "I've been riding my bike for 50 years and I love it. The best part of biking is that it can be done at any age, as long as you are willing to put in the hard work. It's always been my goal to ride to the top of Mount Everest!"
+  },
+  {
+    "_id": "624a41586e6ec17171fa46c8",
+    "picture": "https://img.freepik.com/free-photo/portrait-happy-young-african-man-eyeglasses_171337-7787.jpg?size=626&ext=jpg&ga=GA1.2.667994152.1649033771",
+    "rating": 4.8,
+    "name": "- Grant Nolan",
+    "review": "Eu id eiusmod dolor excepteur voluptate incididunt aliqua officia occaecat. Voluptate sint labore ea enim deserunt reprehenderit laborum id velit ad est minim ullamco. Quis occaecat magna reprehenderit commodo consectetur eu commodo do culpa sit voluptate adipisicing elit qui. Mollit excepteur velit ex officia deserunt officia tempor adipisicing nisi cupidatat.\r\n"
+  },
+  {
+    "_id": "624a41586e6ec17171fa46c8",
+    "picture": "https://img.freepik.com/free-photo/cheerful-young-caucasian-businessman_171337-727.jpg?size=626&ext=jpg&ga=GA1.2.667994152.1649033771",
+    "rating": 3.8,
+    "name": "- hurnan",
+    "review": "I've had my motor bike for a few years now and I love it. It's the best quality motor bike I've ever seen. The bike is really fast and it's been really reliable so far. I would recommend this to anyone looking for a good motor bike."
+  }
+]
