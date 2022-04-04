@@ -1,9 +1,10 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import ReviewData from "../../Hooks/ReviewData";
 import Revews from "../Revews/Revews";
 const Home = () => {
   const [reviews, setReviews] = ReviewData();
-
+  const navigate = useNavigate();
   return (
     <div className="">
       <div className=" max-w-screen-lg mx-auto">
@@ -47,6 +48,14 @@ const Home = () => {
             {reviews.slice(0, 3).map((review) => (
               <Revews key={review._id} reviews={review}></Revews>
             ))}
+          </div>
+          <div className="text-center">
+            <button
+              className="bg-blue-300 px-4 py-2 rounded-lg"
+              onClick={() => navigate("/review")}
+            >
+              See All Reviews
+            </button>
           </div>
         </div>
       </div>
