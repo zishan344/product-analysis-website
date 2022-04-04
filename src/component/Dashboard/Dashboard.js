@@ -57,7 +57,7 @@ const Dashboard = () => {
   return (
     <div className="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6 items-end my-8">
       <div className="m-auto">
-        <LineChart width={500} height={300} data={data}>
+        <LineChart width={500} height={400} data={data}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" padding={{ left: 30, right: 30 }} />
           <YAxis />
